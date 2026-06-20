@@ -1,0 +1,11 @@
+Repositorio:
+Es el espacio donde se almacenan los archivos de un proyecto y su historial de cambios. Permite organizar
+el trabajo y mantener un registro de todas las versiones realizadas.
+
+Commit:
+Es un registro de los cambios realizados en un proyecto en un momento específico. Cada commit guarda una 
+versión del trabajo y permite volver a estados anteriores si es necesario.
+
+Push:
+Es la acción de enviar los cambios guardados en Git desde el computador o Codespaces hacia GitHub. Esto 
+permite que el repositorio remoto se mantenga actualizado y accesible.
