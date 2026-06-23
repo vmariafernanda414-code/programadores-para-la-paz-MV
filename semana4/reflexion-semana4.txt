@@ -1,0 +1,8 @@
+Las tecnologías abiertas como Node.js permiten que comunidades y organizaciones desarrollen sus propias 
+herramientas digitales sin depender de software propietario. Esto facilita la creación de soluciones 
+adaptadas a las necesidades locales. Además, promueven el aprendizaje y la participación de más personas 
+en proyectos tecnológicos. Al ser de código abierto cualquier persona puede estudiar, modificar y mejorar 
+las aplicaciones. Esto fortalece la colaboración y el trabajo en equipo. También reduce costos y fomenta 
+la innovación. Las comunidades pueden crear plataformas para compartir información, organizar actividades 
+y resolver problemas. Node.js facilita el desarrollo de aplicaciones web modernas y eficientes. Por estas 
+razones, las tecnologías abiertas son importantes para el desarrollo social y ciudadano.
