@@ -1,0 +1,11 @@
+Es fundamental que las plataformas tecnológicas utilizadas por las comunidades funcionen de manera 
+estable y segura porque se convierten en herramientas clave para la participación ciudadana, el acceso a 
+la información y la gestión de recursos locales. Si un servidor se cae constantemente, se quiebra la 
+confianza de los usuarios, se interrumpe la comunicación comunitaria y se pueden perder datos valiosos de 
+los procesos organizativos. Por otro lado, la seguridad protege la privacidad y los datos personales de 
+los miembros de la comunidad, evitando vulnerabilidades que puedan ser explotadas de forma malintencionada. 
+Una infraestructura digital robusta garantiza la continuidad de los servicios y democratiza el uso de la 
+tecnología, demostrando que los proyectos comunitarios pueden autogestionarse con el mismo estándar de 
+calidad y confiabilidad que las plataformas comerciales. De esta manera, la estabilidad del servidor no 
+es solo un requerimiento técnico, sino un compromiso ético y social para sostener el tejido comunitario 
+en el entorno digital.
