@@ -1,0 +1,3 @@
+Cuando se consulta la ruta GET /reportes, el servidor devuelve la lista de reportes que se han registrado 
+previamente. Si se ha agregado un reporte con POST, este aparecerá en la respuesta junto con su id, tipo y 
+descripción.
