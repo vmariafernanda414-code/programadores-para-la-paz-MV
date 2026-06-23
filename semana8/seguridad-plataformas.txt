@@ -1,0 +1,5 @@
+1. No compartir datos personales de los usuarios.
+2. Utilizar contraseñas seguras y cambiarlas periódicamente.
+3. Usar conexiones seguras y protegidas.
+4. Limitar el acceso a la información sensible.
+5. Mantener actualizado el sistema y los programas.
